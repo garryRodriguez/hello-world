@@ -1,5 +1,5 @@
 {
-    "name": "garry/hello-world",
+    "name": "garry-dev/hello-world",
     "require":{
         "monolog/monolog":"^3.0"
     },
